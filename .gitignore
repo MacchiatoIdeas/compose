@@ -1,4 +1,5 @@
 .DS_Store
-media/
+media/*
+!media/opertrain.png
 staticroot/
 
